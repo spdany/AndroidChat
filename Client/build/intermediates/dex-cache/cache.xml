@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\daniel.spataru\.gradle\caches\modules-2\files-2.1\com.github.nkzawa\socket.io-client\0.5.0\7d40c590385ba95b34920eb89c986757a79968af\socket.io-client-0.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7d40c590385ba95b34920eb89c986757a79968af">
+        <dex dex="C:\Users\daniel.spataru\Desktop\AN4\IDP_proiect\Client\app\build\intermediates\pre-dexed\debug\socket.io-client-0.5.0_762ad28f8de6cc828b690f747beacdb2dda6034d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\daniel.spataru\.android\build-cache\2b6daceac279fb324fad40de38ecee83b0066702\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\daniel.spataru\Desktop\AN4\IDP_proiect\Client\app\build\intermediates\pre-dexed\debug\classes_d03b62de744b7be9b6f2ecc6023110b20f9968b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\daniel.spataru\.android\build-cache\0e7c6d8859d8ca6d1230112b831212a4829d4180\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\daniel.spataru\Desktop\AN4\IDP_proiect\Client\app\build\intermediates\pre-dexed\debug\classes_f94aea719642893a4acf9a5957876ea729ee49af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\daniel.spataru\.android\build-cache\be064fe99966baa698ecae97105392c146678f0a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\daniel.spataru\Desktop\AN4\IDP_proiect\Client\app\build\intermediates\pre-dexed\debug\classes_1bc6162a71762613ae9899daad30f4de292100fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\daniel.spataru\.gradle\caches\modules-2\files-2.1\com.github.nkzawa\engine.io-client\0.5.0\72f54ba32a0d735630ebc33a5c39e14a5dd45492\engine.io-client-0.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="72f54ba32a0d735630ebc33a5c39e14a5dd45492">
+        <dex dex="C:\Users\daniel.spataru\Desktop\AN4\IDP_proiect\Client\app\build\intermediates\pre-dexed\debug\engine.io-client-0.5.0_a68c2c10460907b2f8fb25904fd2acd3ac957fa1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\daniel.spataru\.android\build-cache\a5cf8713dd43de6fd7af856084ea27529b7318ca\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\daniel.spataru\Desktop\AN4\IDP_proiect\Client\app\build\intermediates\pre-dexed\debug\classes_54dc8d25016b74d05e3f08815ffb27e4b5d738f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\daniel.spataru\.android\build-cache\8f2cdfc358378af3a5643b5a59bd73cb35ae555a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\daniel.spataru\Desktop\AN4\IDP_proiect\Client\app\build\intermediates\pre-dexed\debug\classes_507ab1d8018751e29239cb72c73f5596070fcd6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\daniel.spataru\.android\build-cache\7314ff7fa5ba236802e39def466e21022a90fff8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\daniel.spataru\Desktop\AN4\IDP_proiect\Client\app\build\intermediates\pre-dexed\debug\classes_93fada98438e2ef8f126886b50a72875742e6451.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\daniel.spataru\.android\build-cache\087552dd4113820b4f06658b0ad257f149bf43ca\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\daniel.spataru\Desktop\AN4\IDP_proiect\Client\app\build\intermediates\pre-dexed\debug\classes_049a28022a9a7400d1d15783fe268f2bacc73714.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\daniel.spataru\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\daniel.spataru\Desktop\AN4\IDP_proiect\Client\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_91a00a70a62b1bdc698e3ddd7aab4ae94aede5f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\daniel.spataru\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.3.0\2e7bc7033dc2c8423e661224171b3133fb155b28\okhttp-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2e7bc7033dc2c8423e661224171b3133fb155b28">
+        <dex dex="C:\Users\daniel.spataru\Desktop\AN4\IDP_proiect\Client\app\build\intermediates\pre-dexed\debug\okhttp-2.3.0_4bddd15bd2e9ff0b5862b34887dc78810cee4293.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\daniel.spataru\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp-ws\2.3.0\7896d229b6aa7884552ab9c23de54c7eb0de8203\okhttp-ws-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7896d229b6aa7884552ab9c23de54c7eb0de8203">
+        <dex dex="C:\Users\daniel.spataru\Desktop\AN4\IDP_proiect\Client\app\build\intermediates\pre-dexed\debug\okhttp-ws-2.3.0_79f5714a2b42bb59e0ab81a118cd728c45f79760.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\daniel.spataru\Desktop\AN4\IDP_proiect\Client\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4cb6ae09eb8aade32e6bb30ab75959fd1e919bfd">
+        <dex dex="C:\Users\daniel.spataru\Desktop\AN4\IDP_proiect\Client\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_8d769d6b4a7610740bd14caa8b11ff79cd8802d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\daniel.spataru\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.3.0\1b355f73402020c5a0dcca58affc3ec3dfeabac1\okio-1.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1b355f73402020c5a0dcca58affc3ec3dfeabac1">
+        <dex dex="C:\Users\daniel.spataru\Desktop\AN4\IDP_proiect\Client\app\build\intermediates\pre-dexed\debug\okio-1.3.0_47429aa2b3fcb9cfb05103e428b7f6812208bfc5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\daniel.spataru\.android\build-cache\8dcae642369509f67afea0b549627fbb336cb58d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\daniel.spataru\Desktop\AN4\IDP_proiect\Client\app\build\intermediates\pre-dexed\debug\classes_00786a372284b51df111b50b52b41a47b6e3e056.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\daniel.spataru\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\daniel.spataru\Desktop\AN4\IDP_proiect\Client\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_b2f12934c1becf514250b78bb92ccd858b59a680.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\daniel.spataru\Desktop\AN4\IDP_proiect\Client\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="C:\Users\daniel.spataru\Desktop\AN4\IDP_proiect\Client\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_8e4332a0e605890f7dfe1c71cd50500f9f6b625f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\daniel.spataru\.android\build-cache\18c517efe56463efecf28f6ddef08cd87ac6b477\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\daniel.spataru\Desktop\AN4\IDP_proiect\Client\app\build\intermediates\pre-dexed\debug\classes_24bca9e696fc35db0a7da83754c6fd1dbdb4b9b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\daniel.spataru\.android\build-cache\673b5650996e45a5c71d7a26f38f6d55115f2fdc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\daniel.spataru\Desktop\AN4\IDP_proiect\Client\app\build\intermediates\pre-dexed\debug\classes_003a3b781045722bd32e78149ce06ca0d2a6672f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\daniel.spataru\.android\build-cache\408300dcb8e1f1f7090cb249872bfa35f3eef608\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\daniel.spataru\Desktop\AN4\IDP_proiect\Client\app\build\intermediates\pre-dexed\debug\classes_88065923c6d061f27d682274784c0875cfef23f9.jar" />
+    </item>
+
+</items>

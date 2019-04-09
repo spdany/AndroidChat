@@ -1,0 +1,29 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "* clone the projet from the git repository \r * under your project directory execute this command",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.15.3",
+    "mysql": "^2.16.0",
+    "nodemon": "^1.11.0",
+    "socket.io": "^2.0.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/medaymenTN/NodeJSChatServer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/medaymenTN/NodeJSChatServer/issues"
+  },
+  "homepage": "https://github.com/medaymenTN/NodeJSChatServer#readme"
+}
