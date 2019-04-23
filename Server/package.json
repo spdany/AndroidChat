@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "",
+  "author": "Daniel Spataru",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.3",
@@ -20,10 +20,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/medaymenTN/NodeJSChatServer.git"
+    "url": "git+https://github.com/spdany/AndroidChat/tree/master/Server.git"
   },
   "bugs": {
-    "url": "https://github.com/medaymenTN/NodeJSChatServer/issues"
+    "url": "https://github.com/spdany/AndroidChat/tree/master/Server/issues"
   },
-  "homepage": "https://github.com/medaymenTN/NodeJSChatServer#readme"
+  "homepage": "https://github.com/spdany/AndroidChat/tree/master/Server#readme"
 }
